@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**YusufSAGIR/YusufSAGIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yusuf SAĞIR
 
-Here are some ideas to get you started:
+Frontend Developer | React.js Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🔭 I am a passionate frontend developer with expertise in building dynamic and responsive user interfaces. 
+I specialize in React.js and enjoy exploring the latest web development trends and best practices. 
+My goal is to create intuitive and visually appealing applications that deliver a seamless user experience.
+
+## Skills
+
+- Frontend Development: React.js, HTML, CSS, JavaScript
+- UI Frameworks: Bootstrap, Material-UI
+- Version Control: Git, GitHub
+- Build Tools: Webpack
+- Testing: Jest, Enzyme
+- Responsive Design
+- Cross-Browser Compatibility
+- Problem Solving and Troubleshooting
+
+## Education
+
+- [Istanbul University](https://www.istanbul.edu.tr/en/_) - Bachelor of Science in Political Science and Public Administration, 2016
+- [Anadolu University](https://www.anadolu.edu.tr/en) - Bachelor of Science in International Relations, 2022
+
+## Contact
+
+ 📫 How to reach me:
+- Email: yusufsagir100@gmail.com
+- Phone: +905551582016
+
+💬 Feel free to reach out to me for any collaboration or project opportunities!
+
+
